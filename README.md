@@ -118,3 +118,5 @@ This will allow the performance of the thrust-vectoring system to be compared ag
 | 12S-to-12V BEC | General Electronics | [Product link](https://www.aliexpress.us/item/3256810372424874.html) | 1 | $5.00 | $5.00 | AliExpress | To buy |
 | 8–23V Input to 5V USB-C Output BEC | General Electronics | [Product link](https://www.aliexpress.us/item/3256808480645422.html) | 1 | $2.72 | $2.72 | AliExpress | To buy |
 | Step-Down 5V BEC (Normal Output) | General Electronics | [Product link](https://www.aliexpress.us/item/3256810580944443.html) | 1 | $3.63 | $3.63 | AliExpress | To buy |
+
+**Total Price: 659.92** (without shipping fees)
