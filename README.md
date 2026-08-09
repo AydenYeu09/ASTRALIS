@@ -14,7 +14,7 @@ ASTRALIS is designed specifically as a testbed to investigate this question thro
 ---
 ## Design
 ASTRALIS consists of three main subsystems: 
-- A custom quadcopter airframe
+- A custom quadcopter airframe (carbon fiber machined top and bottom plates + cf nylon frame pieces)
 - Four independently tilting motor pods
 - A multi-jointed robotic manipulator
 
@@ -26,10 +26,13 @@ Each motor is mounted to a tilting pod actuated by a servo and pushrod linkage. 
 <img width="400" height="300" alt="ASTRALISv2_2026-Aug-09_10-05-22PM-000_CustomizedView5219588414" src="https://github.com/user-attachments/assets/2be46a3b-3384-487f-8562-b3bf9a9ac8f7" />
 <img width="400" height="300" alt="ASTRALISv2_2026-Aug-09_10-07-08PM-000_CustomizedView10570838011_png" src="https://github.com/user-attachments/assets/11fa67a6-9540-4ca7-adc2-f3f96e66acf8" />
 
+The design includes a dual flange-bearing supported pivot and shoulder bolt, mechanically linked by a threaded rod to a servo horn. This was chosen because the turning drone's motors during thrust action will induce gyroscopic force, and I want to ensure that the system is structurally sound. The mounts will be printed out of Nylon CF as it is the strongest available filament in my collection. 
 
 ### Aerial Manipulator 
 ASTRALIS uses a multi-jointed robotic arm to manipulate payloads and generate controlled disturbances during flight. The arm is designed to use **Waveshare ST3215 serial bus servos**, allowing multiple joints to be controlled through the same communication bus. 
 The arm was originally designed around DYNAMIXEL servos but was redesigned around the ST3215 to increase available torque while reducing the overall costs of the actuator and control system. 
+
+>**Note: The arm will be 3D printed out of PLA**
 
 <img width="800" height="600" alt="ASTRALISv2_2026-Aug-09_10-07-26PM-000_CustomizedView5861968826_png" src="https://github.com/user-attachments/assets/f7cb2f0c-3b15-4ec7-af02-296fea9c5da4" />
 
