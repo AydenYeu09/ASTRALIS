@@ -64,7 +64,7 @@ The electronics are spread across flight control and experiment control.
 
 ---
 ## Software (derived from discontinued Urban-Gust-Optimized UAV) 
-Software development is currently focused on establishing basic communication between the Raspberry Pi and the Pixhawk and building the framework required for arm-disturbance experiments. 
+Software development is currently focused on establishing basic communication between the Raspberry Pi and the Pixhawk and building the framework required for arm-disturbance experiments. Once I have the hardware confirmed, I will delve into system-
 Current code includes: 
 - MAVLink initialization
 - Heartbeat monitoring
@@ -81,6 +81,11 @@ Several of the modules are still under development and will be implemented as th
 
 The initial experiment will measure the aircraft's response to repeatable robotic-arm movements. A standardized payload will be picked up by the manipulator and moved through a predetermined trajectory while vehicle telemetry is recorded.
 Tests will eventually be performed for both **with and without thrust-vectoring compensation**.
+
+After the results of this experiment, I will develop a prediction-based model in MATLAB that will account for non-predetermined arm movements. 
+
+## Future Plans 
+After determining the impact of thrust-vectoring vehicle stability, I plan to add more software capabilities to the drone, making it a fully fledged UAV. I want to explore more into computer vision driven tasks with the manipulator.
 
 Measurements will include:
 - Peak roll and pitch deviation
