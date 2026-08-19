@@ -2,7 +2,7 @@
 
 **ASTRALIS** is a thrust-vectoring aerial manipulation research quadcopter designed to investigate how independently vectored thrust can compensate for disturbances induced by the movement of an onboard robotic arm. 
 
-<img width="600" height="450" alt="ASTRALISv2_2026-Aug-08_04-18-19AM-000_CustomizedView49024496437" src="https://github.com/user-attachments/assets/80fb7207-555f-460f-a466-44f3cd1af280" />
+<img width="600" height="451" alt="ASTRALISv2_2026-Aug-08_04-18-19AM-000_CustomizedView49024496437" src="https://github.com/user-attachments/assets/80fb7207-555f-460f-a466-44f3cd1af280" />
 
 
 ## Research Goals
