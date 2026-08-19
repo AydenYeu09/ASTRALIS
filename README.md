@@ -60,7 +60,7 @@ The electronics are spread across flight control and experiment control.
 | PCA9685 | Tilt Servo Driver Board | 
 | DS3230 | High Torque Tilt Servos (picked to handle gyroscopic forces from tilting the motors) |
 | Hobbywing XRotor 3110 900KV | Thrust Motors |
-| Tekko32 4in1 65A ESC | ESC for XRotor 3110s|
+| Blueson A2 4in1 65A ESC | ESC for XRotor 3110s|
 
 ---
 ## Software (derived from discontinued Urban-Gust-Optimized UAV) 
@@ -102,7 +102,7 @@ This will allow the performance of the thrust-vectoring system to be compared ag
 |---|---|---|---:|---:|---:|---|---|
 | Raspberry Pi 4 Model B | General Electronics | [Product link](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) | 1 | $0.00 | $0.00 | Raspberry Pi | Already Owned |
 | Pixhawk 6C Mini + PM06 | General Electronics | [Product link](https://holybro.com/products/pixhawk-6c-mini?variant=44511519539389) | 1 | $151.98 | $151.98 | Holybro | To buy |
-| Tekko32 4in1 ESC (65A) | General Electronics | [Product link](https://holybro.com/products/tekko32-f4-metal-4in1-65a-esc-65a) | 1 | $87.99 | $87.99 | Holybro | To buy |
+| Sequre Blueson A2 65A 4in1 ESC | General Electronics | [Product link](https://www.defiancerc.com/collections/electronic-speed-control/products/sequre-blueson-a2-65a-6s-am32-4-in-1-esc) | 1 | $39.99 | $39.99 | Holybro | To buy |
 | PWM Cable ESC to Pixhawk 6C | General Electronics | [Product link](https://holybro.com/products/pixhawk-pwm-cable-for-tekko32-4in1-esc) | 1 | $2.59 | $2.59 | Holybro | To buy |
 | Ovonic Roam Series 6S LiPo Battery, 5500mAh, 150C, 22.2V, XT90-S | General Electronics | [Product link](https://us.ovonicshop.com/products/ovonic-roam-series-6s-lipo-battery-5500mah-6s1p-150c-22-2v-long-range-lipo-battery-with-xt90-s-anti-spark-plug-for-6s-cinelifte-drone-multirotor-x-class) | 1 | $60.99 | $60.99 | OVONIC USA | To buy |
 | MECCANIXITY 304 Stainless Steel Rods, 6 × 80 mm, Pack of 5 | Aerial Manipulator | [Product link](https://www.amazon.com/MECCANIXITY-Stainless-Steel-Helicopter-Airplane/dp/B0DF32R3MJ/) | 5 | $5.00 | $1.00 | Amazon | To buy |
@@ -123,5 +123,3 @@ This will allow the performance of the thrust-vectoring system to be compared ag
 | 12S-to-12V BEC | General Electronics | [Product link](https://www.aliexpress.us/item/3256810372424874.html) | 1 | $5.00 | $5.00 | AliExpress | To buy |
 | 8–23V Input to 5V USB-C Output BEC | General Electronics | [Product link](https://www.aliexpress.us/item/3256808480645422.html) | 1 | $2.72 | $2.72 | AliExpress | To buy |
 | Step-Down 5V BEC (Normal Output) | General Electronics | [Product link](https://www.aliexpress.us/item/3256810580944443.html) | 1 | $3.63 | $3.63 | AliExpress | To buy |
-
-**Total Price: 659.92** (without shipping fees)
