@@ -4,6 +4,7 @@
 
 <img width="600" height="451" alt="ASTRALISv2_2026-Aug-08_04-18-19AM-000_CustomizedView49024496437" src="https://github.com/user-attachments/assets/80fb7207-555f-460f-a466-44f3cd1af280" />
 
+[ASTRALIS Public Onshape](https://cad.onshape.com/documents/e7aa6cff1a0b3da1907f913a/w/77e9de90cc715c4e64e50337/e/d9e24aa74ee5dafe20d41019)
 
 ## Research Goals
 Aerial manipulators, while adding functionality and expanding the applicable scope of a quadcopter, introduce a major problem to multirotor flight: moving an arm and payload changes the vehicle's mass distribution and produces additional forces and moments on the aircraft. 
